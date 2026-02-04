@@ -52,20 +52,7 @@ This finding led to a critical insight:
 * Low multicollinearity (most pairs < 0.3) ✅
 * Energy ↔ Loudness strongest correlation (0.65)
 * Features are largely independent, contributing unique information
-* No single feature strongly predicts hits—feature engineering necessary
-
----
-
-## 🧪 Progress So Far
-
-✅ Data loading and exploration  
-✅ Exploratory Data Analysis (EDA) with visualizations  
-✅ Feature distribution analysis  
-✅ Correlation heatmap  
-✅ Feature engineering strategy defined  
-⏳ Model training (in progress)  
-⏳ Model evaluation (upcoming)  
-⏳ Feature importance analysis (upcoming)  
+* No single feature strongly predicts hits—feature engineering necessary 
 
 ---
 
